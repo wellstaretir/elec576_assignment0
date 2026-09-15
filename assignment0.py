@@ -629,3 +629,12 @@ ax.grid(True, alpha=0.3)
 ax.legend(loc="upper right", fontsize=8)
 fig.tight_layout()
 plt.show()
+
+
+# %% Task 5: Version control system (GitHub)
+
+
+
+# %% Task 6: Integrated development environment (Spyder)
+
+
